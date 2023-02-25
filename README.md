@@ -1,0 +1,1 @@
+# Hide.io-StampAuto
