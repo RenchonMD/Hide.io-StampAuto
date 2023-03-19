@@ -1,3 +1,4 @@
-# Hide.io-StampAuto
+# 隠れん坊オンライン
+スタンプを自動化する
 
-I used this template https://github.com/LGLTeam/Android-Mod-Menu
+このModmenuを使用 https://github.com/LGLTeam/Android-Mod-Menu
